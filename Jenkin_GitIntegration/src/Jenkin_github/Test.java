@@ -19,6 +19,11 @@ public class Test
 	{
 		System.out.println("THis is github");
 	}	
+
+	public void m6()
+	{
+		System.out.println("THis is github Integraion");
+	}	
 	
 	public static void main(String[] args) 
 	{
